@@ -1,4 +1,5 @@
 # time-series
-Repository untuk penyelesaian analisis time series
+Repository of time series analysis. 
 
-1. Prediksi curah hujan di Kota Semarang, Jawa Tengah
+1. Prediction of rainfall in Semarang City, Central Java
+2. Crude Palm Oil Prediction Using MLP and LSTM
