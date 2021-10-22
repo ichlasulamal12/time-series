@@ -1,4 +1,4 @@
-# time-series
+# Time Series Analysis
 Repository of time series analysis. 
 
 1. Prediction of Rainfall in Semarang City, Central Java
